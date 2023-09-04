@@ -1,6 +1,6 @@
 # 👋  Hi there, I'm Henok
 
-**`Full-Stack .Net developer 😎`**
+**`I am a passionate Full-Stack .Net developer 😎`**
 ----------
 ### About
 -   💻  Self-taught web developer 
