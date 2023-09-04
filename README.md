@@ -17,6 +17,10 @@
 ### Skills
 -  Web application development 
 -  Website development
+
+### Visitor count
+<img src="https://profile-counter.glitch.me/HenaGit/count.svg" />
+
 <hr/>
 ## &#x1f4c8; GitHub Stats
 
@@ -28,3 +32,6 @@
 </a>
 
 </p>
+
+- 🔭 I’m currently working on ReactJS!
+- 📫 How to reach me: heni.gebrehiwot@gmail.com
