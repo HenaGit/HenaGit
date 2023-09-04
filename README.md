@@ -17,4 +17,14 @@
 ### Skills
 -  Web application development 
 -  Website development
-[![Gist Card](https://github.com/HenaGit/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)]([https://gist.github.com](https://github.com/HenaGit)/Yizack/bbfce31e0217a3689c8d961a356cb10d/)
+<hr/>
+## &#x1f4c8; GitHub Stats
+
+<p><a href="https://github.com/HenaGit/HenaGit">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=HenaGit&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="HenaGit's GitHub Stats" />
+</a>
+<a href="https://github.com/HenaGit/HenaGit">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenaGit&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+
+</p>
