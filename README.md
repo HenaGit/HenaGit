@@ -10,10 +10,10 @@
 -   📑  HTML
 -   🎨  CSS
 -    🏗 Javascript 
--   🌀  Tailwind CSS 
+-   🌀  Bootstrap 
 -   ⚛  ReactJS 
--    ✨ Invision Studio 
--   🔜  *Node.js(currently learning)*
+-    ✨ C# 
+-   🔜  *.Net Core*
 ### Skills
 -  Web application development 
 -  Website development
