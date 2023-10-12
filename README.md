@@ -1,4 +1,4 @@
-# 👋  Hi there, I'm Henok
+# 👋  Hi there, I'm Shibeshi
 
 **`I am a passionate Full-Stack .Net developer 😎`**
 ----------
@@ -10,13 +10,14 @@
 -   📑  HTML
 -   🎨  CSS
 -    🏗 Javascript 
--   🌀  Bootstrap 
+-   🌀  Bootstrap
+-   🌀  Blazor
 -   ⚛  ReactJS 
 -    ✨ C# 
 -   🔜  *.Net Core*
 ### Skills
 -  Web application development 
--  Website development
+-  Agile methodology
 
 ### Visitor count
 <img src="https://profile-counter.glitch.me/HenaGit/count.svg" />
