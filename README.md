@@ -1,4 +1,4 @@
-# 👋  Hi there, I'm Henok
+# 👋  Hi there, I'm Shibeshi
 
 **`I am a passionate Full-Stack .Net developer 😎`**
 ----------
@@ -9,12 +9,14 @@
 ### Stack
 -   📑  HTML
 -   🎨  CSS
+-   🎨  jQuery
 -    🏗 Javascript 
 -   🌀  Bootstrap
 -   🌀  Blazor
 -   ⚛  ReactJS 
 -    ✨ C# 
 -   🔜  *.Net Core*
+-   🔜  *Azure*
 ### Skills
 -  Web application development 
 -  Agile methodology
