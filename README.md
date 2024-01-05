@@ -3,7 +3,7 @@
 **`I am a passionate Full-Stack .Net developer 😎`**
 ----------
 ### About
--   💻  Self-taught web developer 
+-   💻  Experienced web developer 
 -   ⚡  Fast learner
 -   🖌️  UI design enthusiast 
 ### Stack
